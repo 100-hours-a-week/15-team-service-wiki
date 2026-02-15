@@ -1,3 +1,13 @@
+---
+
+name: "Troubleshooting-Log-Template"
+about: "문제 발생 원인 분석 및 조치 사항을 기록합니다."
+title: "[YYYY-MM-DD] 트러블슈팅-제목"
+labels: ["트러블슈팅"]
+assignees: ""
+
+---
+
 # [날짜] 이슈 제목 
 
 ## 📑 개요
